@@ -1,0 +1,9 @@
+c:\users\taras\documents\visual studio 2015\Projects\ComPort\ComPort\bin\Debug\ComPort.exe.config
+c:\users\taras\documents\visual studio 2015\Projects\ComPort\ComPort\bin\Debug\ComPort.exe
+c:\users\taras\documents\visual studio 2015\Projects\ComPort\ComPort\bin\Debug\ComPort.pdb
+c:\users\taras\documents\visual studio 2015\Projects\ComPort\ComPort\obj\Debug\ComPort.csprojResolveAssemblyReference.cache
+c:\users\taras\documents\visual studio 2015\Projects\ComPort\ComPort\obj\Debug\ComPort.Form1.resources
+c:\users\taras\documents\visual studio 2015\Projects\ComPort\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+c:\users\taras\documents\visual studio 2015\Projects\ComPort\ComPort\obj\Debug\ComPort.csproj.GenerateResource.Cache
+c:\users\taras\documents\visual studio 2015\Projects\ComPort\ComPort\obj\Debug\ComPort.exe
+c:\users\taras\documents\visual studio 2015\Projects\ComPort\ComPort\obj\Debug\ComPort.pdb
